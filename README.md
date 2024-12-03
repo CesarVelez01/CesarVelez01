@@ -12,10 +12,10 @@
 <a href="">Go to repository</a>
 </details>
 <details>
-<summary>School Projects</summary>
-<a href="">Library Web App</a>
+<summary>🏫 School Projects</summary>
+<a href="https://github.com/CesarVelez01/BibliotecaCUT">Library Web App</a>
 <br>
-<a href="">Js Compiler</a>
+<a href="https://github.com/CesarVelez01/miniCompiladorJS">Js Compiler</a>
 </details>
 <h2>🛠 Tech Stack</h2>
 <p align="center">
