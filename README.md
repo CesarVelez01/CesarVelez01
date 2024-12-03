@@ -9,13 +9,14 @@
 <p>🌍 Languages: Spanish and English</p>
 <details>
 <summary>💻 Internship Projects</summary>
-<a href="">Go to repository</a>
+<li><a href="">Go to repository</a></li>
 </details>
 <details>
 <summary>🏫 School Projects</summary>
-<a href="https://github.com/CesarVelez01/BibliotecaCUT">Library Web App</a>
-<br>
-<a href="https://github.com/CesarVelez01/miniCompiladorJS">Js Compiler</a>
+<ul>
+  <li><a href="https://github.com/CesarVelez01/BibliotecaCUT">Library Web App</a></li>
+  <li><a href="https://github.com/CesarVelez01/miniCompiladorJS">Js Compiler</a></li>
+</ul>
 </details>
 <h2>🛠 Tech Stack</h2>
 <p align="center">
