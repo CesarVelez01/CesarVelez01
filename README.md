@@ -8,6 +8,11 @@
 <p>🎓 Computer Science Engineer</p>
 <p>🌍 Languages: Spanish and English</p>
 <details>
+<summary>✨ Practice Projects</summary>
+<li><a href="">Js Projects</a></li>
+</details>
+<details>
+<details>
 <summary>💻 Internship Projects</summary>
 <li><a href="">Go to repository</a></li>
 </details>
