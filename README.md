@@ -35,7 +35,7 @@
 <h2>🧰 Tools</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,windows" />
+    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,windows" />
   </a>
 </p>
 <br>
