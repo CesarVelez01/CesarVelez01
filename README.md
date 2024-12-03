@@ -9,7 +9,7 @@
 <p>🌍 Languages: Spanish and English</p>
 <details>
 <summary>✨ Practice Projects</summary>
-<li><a href="">Js Projects</a></li>
+<li><a href="https://github.com/CesarVelez01/Js_Test_Projects">Js Projects</a></li>
 </details>
 <details>
 <summary>💻 Internship Projects</summary>
