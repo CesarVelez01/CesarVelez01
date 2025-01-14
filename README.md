@@ -14,7 +14,7 @@
 <details>
 <summary>🏫 School Projects</summary>
 <ul>
-  <li><a href="https://github.com/CesarVelez01/BibliotecaCUT" target="blank">Library Web App</a></li>
+  <li><a href="https://github.com/CesarVelez01/BibliotecaCUT" target="blank">Library Management Web Aplication</a></li>
   <li><a href="https://github.com/CesarVelez01/miniCompiladorJS" target="blank">Js Compiler</a></li>
 </ul>
 </details>
